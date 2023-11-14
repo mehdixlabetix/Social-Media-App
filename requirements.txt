@@ -1,0 +1,7 @@
+Django
+djangorestframework
+django-filter
+djangorestframework-simplejwt
+django-extensions
+psycopg2_binary==2.9.9
+drf-nested-routers==0.93.4
